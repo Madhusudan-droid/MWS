@@ -70,8 +70,7 @@ body{
   box-shadow:2px 2px 5px;
   background-color:white;
   font-size:30px;
-  display:flex;
-  flex-direction:column;
+  display:column;
   align-items:center;
   justify-content:center;
   font-weight:800;
