@@ -89,7 +89,7 @@ body{
 @media (max-width:500px){
   .welcome, .tocomet{
     font-size: 50px;
-    margin-left:7vh;
+    margin-left:5vh;
   }
   .yourProduct1, .yourProduct2{
     width:100%;
